@@ -1,5 +1,5 @@
 Feature: Amazon website
-  @wip
+  @amazon
   Scenario: Successfully adding a purchase on cart
     When User goes to Amazon homepage
     And User searches for "hats for men"
